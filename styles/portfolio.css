@@ -332,6 +332,10 @@ footer {
     width: 50%
 }
 
+.contact{
+    padding-top: 20px;
+}
+
 .contact input[type="text"],
 .contact input[type="email"],
 textarea {
